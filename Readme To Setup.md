@@ -6,7 +6,7 @@
 **Go to [HERE](https://chromewebstore.google.com/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm?hl=en) on a personal computer and or the artroom computers.**   
 **(If artroom sign in with your student info, than sign in with/make a personal Gmail)**
 
-**Once you add the browser extension, make sure you have a usb drive at least 8GB ([Eight Gigabytes](https://www.google.com/search?q=8+gigabytes+drive+officemax+virgin+islands&client=opera-gx&hs=X7f&sca_esv=8def63561064d595&biw=2798&bih=1582&sxsrf=AE3TifNq06_mnNpu00ARCuoFak8RNc5OzQ%3A1757256203106&ei=C5q9aLueBsWq5NoPnbzy6A4&oq=8+Gigabytes+Drive+Officemax+vi&gs_lp=Egxnd3Mtd2l6LXNlcnAiHjggR2lnYWJ5dGVzIERyaXZlIE9mZmljZW1heCB2aSoCCAAyBRAhGKABMgUQIRigATIFECEYoAFImExQ8AhYiQ1wAHgCkAEAmAHUAaAB5QOqAQUwLjIuMbgBAcgBAPgBAZgCBKAC9QPCAgQQABhHwgIFEAAY7wXCAggQABiABBiiBJgDAOIDBRIBMSBAiAYBkAYIkgcFMS4yLjGgB9kHsgcFMC4yLjG4B_ADwgcFMC4zLjHIBwk&sclient=gws-wiz-serp)) worth of storage, and plug it into the back of the monitor, or if on a personal computer plug it into a usb port**
+**Once you add the browser extension, make sure you have a usb drive at least 8GB Eight Gigabytes worth of storage, and plug it into the back of the monitor, or if on a personal computer plug it into a usb port**
 
 **From there if, this document didn’t come with a large zip file titled: “chromeos\_16267.66.0\_nissa\_recovery\_stable-channel\_NissaMPKeys-v54.bin.zip” download the file from [HERE](https://www.mediafire.com/download_status.php?quickkey=5sfnsrtza1hg3xi&origin=download), but DON’T put it into the usb drive, if it did come with chromeos please take this file and that one out of the drive if it’s in one. Regardless, starting the process, take this file out of the drive if you don’t want it erased.**
 
